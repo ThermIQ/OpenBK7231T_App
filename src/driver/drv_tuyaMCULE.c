@@ -1,6 +1,7 @@
 //
 // Low-Power TuyaMCU information
 //
+// Edit to force build
 
 #include "../new_common.h"
 #include "../new_pins.h"
